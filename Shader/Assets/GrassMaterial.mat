@@ -123,6 +123,8 @@ Material:
     - _Surface: 0
     - _TerrainOffset: 0
     - _TerrainSize: 50
+    - _WindIntensity: 0.1
+    - _WindSpeed: 0.5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
